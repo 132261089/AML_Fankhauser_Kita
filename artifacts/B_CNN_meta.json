@@ -1,0 +1,1 @@
+{"farm": "B", "model": "CNN", "folds": [{"fold": 0, "thr": 0.5, "test_anomaly": 34}, {"fold": 1, "thr": 0.5, "test_anomaly": 7}, {"fold": 2, "thr": 0.5, "test_anomaly": 53}, {"fold": 3, "thr": 0.5, "test_anomaly": 27}, {"fold": 4, "thr": 0.5, "test_anomaly": 19}, {"fold": 5, "thr": 0.5, "test_anomaly": 77}]}
