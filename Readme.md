@@ -28,3 +28,5 @@ Mit RETRAIN = False (Standardeinstellung im Notebook) werden die bereits berechn
 
 Neuberechnung
 Mit RETRAIN = True werden alle Modelle neu trainiert. Dafür wird TensorFlow und idealerweise eine GPU benötigt. Laufzeit: mehrere Stunden. Die Ergebnisse werden automatisch im artifacts-Ordner gespeichert.
+
+Beim einem parquet fehler den Ordner löschen und neu erstellen lassen.
